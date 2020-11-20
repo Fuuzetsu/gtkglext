@@ -76,6 +76,8 @@ Library
           Graphics.UI.Gtk.OpenGL.Window
         other-modules:
           Graphics.UI.Gtk.OpenGL.Types
+        autogen-modules:
+          Graphics.UI.Gtk.OpenGL.Types
 
         default-language:   Haskell2010
         default-extensions: ForeignFunctionInterface
